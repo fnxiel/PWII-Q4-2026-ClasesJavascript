@@ -1,0 +1,16 @@
+{
+  "name": "programacion-web-ii",
+  "version": "1.0.0",
+  "description": "Clase de programacion web II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start-sin-clase": "node index-sin-clases.js"
+  },
+  "author": "FRNP",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
