@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "start-sin-clase": "node index-sin-clases.js"
+    "start": "node ./src/index.js",
+    "start-sin-clase": "node ./src/index-sin-clases.js"
   },
   "author": "FRNP",
   "license": "ISC",
